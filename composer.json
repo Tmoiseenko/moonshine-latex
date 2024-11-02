@@ -1,0 +1,20 @@
+{
+    "name": "tmoiseenko/moonshine-latex",
+    "description": "Latex editor for MoonShine",
+    "keywords": ["moonshine", "latex"],
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Timur Moiseenko",
+            "homepage": "https://tmoiseenko.uz",
+            "email": "angrav6@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1|^8.2",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
